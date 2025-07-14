@@ -3,7 +3,6 @@ I am a master student in the Department of Artificial Intelligence at Korea Univ
 
 ## 🔭 Publications
 - FIQ: Fundamental Question Generation with the Integration of Question Embeddings for Video Question Answering (IEEE SMC 2025)
-
 - An ANN-Assisted Control for the Power Decoupling of a Multiple Active Bridge DC-DC Converter (IEEE IECON 2022)
 <!--
 **juyoungohjulie/juyoungohjulie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
