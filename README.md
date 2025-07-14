@@ -7,8 +7,14 @@ I am a master student in the Department of Artificial Intelligence at Korea Univ
 
 ## 📄 Resume & 🌐 LinkedIn
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](./CV_JuyoungOh_company.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/juyoung-oh-102aa31a0)
+<p align="left">
+  <a href="./CV_JuyoungOh_company.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-blue" alt="Resume">
+  </a>
+  <a href="https://www.linkedin.com/in/juyoung-oh-102aa31a0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
 <!--
 **juyoungohjulie/juyoungohjulie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
