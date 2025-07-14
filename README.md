@@ -4,6 +4,12 @@ I am a master student in the Department of Artificial Intelligence at Korea Univ
 ## 🔭 Publications
 - FIQ: Fundamental Question Generation with the Integration of Question Embeddings for Video Question Answering (IEEE SMC 2025)
 - An ANN-Assisted Control for the Power Decoupling of a Multiple Active Bridge DC-DC Converter (IEEE IECON 2022)
+
+## 📄 Resume & 🌐 LinkedIn
+
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](./CV_JuyoungOh_company.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/juyoung-oh-102aa31a0)
+
 <!--
 **juyoungohjulie/juyoungohjulie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
