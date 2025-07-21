@@ -1,5 +1,5 @@
 ## Hello, my name is Juyoung OH 👋
-I am a master student in the Department of Artificial Intelligence at Korea University. My research interests include computer vision and natural language processing, especially in the field of video question understanding (VQA).
+I am a master student in the Department of Artificial Intelligence at Korea University. My research interests include computer vision and natural language processing, especially in the field of video question answering (VQA).
 
 ## 🔭 Publications
 - FIQ: Fundamental Question Generation with the Integration of Question Embeddings for Video Question Answering (IEEE SMC 2025)
