@@ -8,6 +8,7 @@ I am a master student in the Department of Artificial Intelligence at Korea Univ
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
   </a>
 </p>
+
 ## 🔭 Publications
 - FIQ: Fundamental Question Generation with the Integration of Question Embeddings for Video Question Answering (IEEE SMC 2025)
 - An ANN-Assisted Control for the Power Decoupling of a Multiple Active Bridge DC-DC Converter (IEEE IECON 2022)
