@@ -1,5 +1,6 @@
 ## Hello, my name is Juyoung OH 👋
 I am a master student in the Department of Artificial Intelligence at Korea University. My research interests include computer vision and natural language processing, especially in the field of video question answering (VQA).
+
 <p align="left">
   <a href="./CV_JuyoungOh_company.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue" alt="Resume">
