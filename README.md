@@ -24,7 +24,9 @@ I am a master student in the Department of Artificial Intelligence at Korea Univ
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juyoungohjulie&layout=compact&theme=dracula)
 
+<!--![juyoungohjulie's github stats](https://github-readme-stats.vercel.app/api?username=juyoungohjulie&show_icons=true) -->
 
 
 
